@@ -14,19 +14,19 @@
 ## Screenshots & Demo
 
 ### Landing Page
-![Landing Page](./Screenshot-2026-05-13-211746.png)
+![Landing Page](Screenshot-2026-05-13-211746.png)
 
 ### Audit Form
-![Audit Form](.Screenshot-2026-05-13-212102.png)
+![Audit Form](Screenshot-2026-05-13-212102.png)
 
 ### Results Dashboard
-![Results Dashboard](./Screenshot-2026-05-13-212405.png)
+![Results Dashboard](Screenshot-2026-05-13-212405.png)
 
 ### Savings Breakdown
-![Savings Breakdown](./Screenshot-2026-05-13-213042.png)
+![Savings Breakdown](Screenshot-2026-05-13-213042.png)
 
 ### Shareable Audit View
-![Shareable Audit View](./Screenshot-2026-05-13-213222.png)
+![Shareable Audit View](Screenshot-2026-05-13-213222.png)
 
 🚀 **Try SpendLens Live:**  
 [See live deployment at: (
