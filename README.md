@@ -22,10 +22,10 @@
 ### Results Dashboard
 ![Results Dashboard](./Screenshot%202026-05-13%20212405.png)
 
-### Savings Breakdown
+### Email Breakdown
 ![Savings Breakdown](./Screenshot%202026-05-13%20213042.png)
 
-### Shareable Audit View
+### PDF View
 ![Shareable Audit View](./Screenshot%202026-05-13%20213222.png)
 
 🚀 **Try SpendLens Live:**  
