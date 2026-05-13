@@ -17,7 +17,7 @@
 ![Landing Page](./Screenshot%202026-05-13%20211746.png)
 
 ### Pricing Rule Page
-![Pricing Rule Page](./Screenshot%202026-05-13%214537.png)
+![Pricing Rule Page](./Screenshot%202026-05-13%20214537.png)
 
 ### Audit Form
 ![Audit Form](./Screenshot%202026-05-13%20212102.png)
