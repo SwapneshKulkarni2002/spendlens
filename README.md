@@ -13,7 +13,24 @@
 
 ## Screenshots & Demo
 
-[See live deployment at: (deployed URL will be provided in submission)]
+### Landing Page
+![Landing Page](./screenshots/Screenshot-2026-05-13-211746.png)
+
+### Audit Form
+![Audit Form](./screenshots/Screenshot-2026-05-13-212102.png)
+
+### Results Dashboard
+![Results Dashboard](./screenshots/Screenshot-2026-05-13-212405.png)
+
+### Savings Breakdown
+![Savings Breakdown](./screenshots/Screenshot-2026-05-13-213042.png)
+
+### Shareable Audit View
+![Shareable Audit View](./screenshots/Screenshot-2026-05-13-213222.png)
+
+🚀 **Try SpendLens Live:**  
+[See live deployment at: (
+https://ai-spend-audit-tool-48fp.bolt.host/)]
 
 ### Key Pages
 1. **Landing**: Hero copy, how it works, social proof
@@ -180,5 +197,5 @@ MIT. Use freely for portfolio, learning, commercial projects.
 
 **Built in 7 days by Claude + human oversight.**
 
-**Deployed at**: [Link to be added]  
-**GitHub**: [Link to be added]
+**Deployed at**: [https://ai-spend-audit-tool-48fp.bolt.host/]  
+**GitHub**: [https://github.com/SwapneshKulkarni2002/spendlens.git]
